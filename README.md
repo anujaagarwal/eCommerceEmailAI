@@ -1,6 +1,5 @@
-# eCommerceEmailAI
 
-🚀 The Future of eCommerce Email Management: AI + Human Collaboration 🚀
+# 🚀 The Future of eCommerce Email Management: AI + Human Collaboration 🚀
 
 What if your email management could be as smooth as a click? Imagine AI doing all the heavy lifting—categorizing, researching, and crafting the perfect responses in real-time. 🔮
 
